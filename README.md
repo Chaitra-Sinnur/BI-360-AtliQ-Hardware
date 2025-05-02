@@ -70,4 +70,4 @@ In the Home view, users can access all available view buttons. By clicking a but
 - The Home view includes links to key department dashboards such as Finance, Sales, Marketing, Supply Chain, Executive, and Products.
 - It also provides access to an Information page and a Support section.
 
-<img src="" class="center">
+<img src="https://github.com/Chaitra-Sinnur/BI-360-AtliQ-Hardware/blob/main/HomePage_page-0001.jpg" class="center">
