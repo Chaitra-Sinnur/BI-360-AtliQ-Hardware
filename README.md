@@ -38,3 +38,6 @@ The Business Insights 360 report provides comprehensive insights across key depa
 - PowerBi App creation
 - Collaboration, workspace, access permissions in PowerBi services 
 
+***
+## Business terminologies
+- 
