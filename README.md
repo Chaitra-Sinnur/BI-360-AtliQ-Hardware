@@ -74,6 +74,22 @@ In the Home view, users can access all available view buttons. By clicking a but
 
 ***
 ## Finance view
-- Analysis of the key financial metrics like NetSales, Gross Margin, NetProfit.
- <img src="" class="center">
-
+- Analysis of the key financial metrics like NetSales, Gross Margin and NetProfit.
+- Year over year performance analysis against benchmarks.
+- Insights into cost structure, including COGS and operating expenses.
+- Regional performance breakdown across regions.
+- Product segment analysis highlighting top and bottom performers.
+- Trend analysis across the P&L components.
+- Identification of areas affecting profitability despite revenue growth.
+  
+ <img src="https://github.com/Chaitra-Sinnur/BI-360-AtliQ-Hardware/blob/main/Finance_page-0001.jpg" class="center">
+ 
+***
+## Sales view
+This report provides a comprehensive overview of customer and Product-wise sales performance and profitability. It highlights how different customers contribute to:
+Net Sales (NS $), Gross Margin (GM), Gross Margin % (GM %). Helps understand which customers drive revenue and profit, and how well they perform in terms of margins.
+- Visual comparisons of key financial breakdowns like Pre-Invoice Deductions, Net Sales, COGS, and Gross Margin through donut charts.
+- A performance matrix (scatter plot) showing customers from different regions positioned based on their sales volume (NS $) and profitability (GM %).
+- It helps identify high-revenue but low-margin customers and those that are both profitable and high-performing.
+ 
+<img src="" class="center">
