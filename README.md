@@ -71,3 +71,9 @@ In the Home view, users can access all available view buttons. By clicking a but
 - It also provides access to an Information page and a Support section.
 
 <img src="https://github.com/Chaitra-Sinnur/BI-360-AtliQ-Hardware/blob/main/HomePage_page-0001.jpg" class="center">
+
+***
+## Finance view
+- Analysis of the key financial metrics like NetSales, Gross Margin, NetProfit.
+ <img src="" class="center">
+
