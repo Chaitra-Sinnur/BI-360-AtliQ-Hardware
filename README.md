@@ -101,4 +101,13 @@ This report provides a high-level overview of product and regional performance, 
 - Visually positions product segments based on their sales and margin to identify strong vs weak performers.
 - Illustrates how Gross Margin is impacted by Operating Expenses and COGS.
 
-<img src="" class="center">
+<img src="https://github.com/Chaitra-Sinnur/BI-360-AtliQ-Hardware/blob/main/Marketing_page-0001.jpg" class="center">
+
+***
+## Supply Chain view
+This report gives a broad overview of how accurately demand was forecasted for different products and segments, and highlights areas of overstock or stockouts.
+- Shows how well actual sales matched forecasted demand for various products
+- Visualizes forecast performance over time, helping to spot months with major deviations or improvements.
+- Highlights major forecasting gaps across products, resulting in either excess inventory (EI) or out-of-stock (OOS) situations.
+
+<img src="https://github.com/Chaitra-Sinnur/BI-360-AtliQ-Hardware/blob/main/Marketing_page-0001.jpg" class="center">
