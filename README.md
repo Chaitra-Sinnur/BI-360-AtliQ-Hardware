@@ -36,8 +36,31 @@ The Business Insights 360 report provides comprehensive insights across key depa
 - Publishing reports to PowerBi services
 - Setting up personal gateway to set up the auto refresh of data
 - PowerBi App creation
-- Collaboration, workspace, access permissions in PowerBi services 
+- Collaboration, workspace, access permissions in PowerBi services etc..
 
 ***
 ## Business terminologies
-- 
+- Year to Date , Year to Go, Landing Estimates
+- Fiscal Year
+- Profit and Loss Statement
+- Pre Invoice / Post Invoice
+- Gross price
+- Net Invoice sale
+- Gross Margin
+- Net sales
+- Net profit
+- COGS - cost of goods sold
+- Direct
+- Retailer
+- Distributors
+- Consumer
+
+***
+
+## Data Modellimg
+- Designed and implemented a Snowflake Schema for optimized data organization
+- Established relationships among 15 data tables to ensure data integrity
+- Maintained accurate table connections to support reliable and meaningful insights
+
+![Alt text] Insert image URL
+
