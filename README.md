@@ -57,10 +57,17 @@ The Business Insights 360 report provides comprehensive insights across key depa
 
 ***
 
-## Data Modellimg
+## Data Modelling
 - Designed and implemented a Snowflake Schema for optimized data organization
 - Established relationships among 15 data tables to ensure data integrity
 - Maintained accurate table connections to support reliable and meaningful insights
 
-![Alt text] Insert image URL
+<img src="https://github.com/Chaitra-Sinnur/BI-360-AtliQ-Hardware/blob/main/Model%20View%20-%201.PNG" class="center">
 
+***
+## HomePage view
+In the Home view, users can access all available view buttons. By clicking a button, the user is directed to the corresponding view page.
+- The Home view includes links to key department dashboards such as Finance, Sales, Marketing, Supply Chain, Executive, and Products.
+- It also provides access to an Information page and a Support section.
+
+<img src="" class="center">
