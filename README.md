@@ -92,4 +92,13 @@ Net Sales (NS $), Gross Margin (GM), Gross Margin % (GM %). Helps understand whi
 - A performance matrix (scatter plot) showing customers from different regions positioned based on their sales volume (NS $) and profitability (GM %).
 - It helps identify high-revenue but low-margin customers and those that are both profitable and high-performing.
  
+<img src="https://github.com/Chaitra-Sinnur/BI-360-AtliQ-Hardware/blob/main/Sales_page-0001.jpg" class="center">
+
+***
+## Marketing view
+This report provides a high-level overview of product and regional performance, focusing on sales, profitability, and cost analysis.
+- Highlights how different regions perform in terms of sales and profitability.
+- Visually positions product segments based on their sales and margin to identify strong vs weak performers.
+- Illustrates how Gross Margin is impacted by Operating Expenses and COGS.
+
 <img src="" class="center">
