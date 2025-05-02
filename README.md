@@ -110,4 +110,9 @@ This report gives a broad overview of how accurately demand was forecasted for d
 - Visualizes forecast performance over time, helping to spot months with major deviations or improvements.
 - Highlights major forecasting gaps across products, resulting in either excess inventory (EI) or out-of-stock (OOS) situations.
 
-<img src="https://github.com/Chaitra-Sinnur/BI-360-AtliQ-Hardware/blob/main/Marketing_page-0001.jpg" class="center">
+<img src="https://github.com/Chaitra-Sinnur/BI-360-AtliQ-Hardware/blob/main/Supply%20Chain_page-0001.jpg" class="center">
+
+***
+## Executive view
+
+
