@@ -116,6 +116,13 @@ This report gives a broad overview of how accurately demand was forecasted for d
 ## Executive view
 This report provides a high-level view of overall business performance across regions, customers, and products, with a focus on profitability, efficiency, and market dynamics.
 
+<img src="https://github.com/Chaitra-Sinnur/BI-360-AtliQ-Hardware/blob/main/Executive_page-0001.jpg" class="center">
+
+***
+## Products
+This report provides a general overview of product performance based on gross margin (GM%) growth across the portfolio and within a specific markets.
+- Highlights the top and bottom performing products in terms of gross margin growth, helping identify bestsellers and underperformers.
+- Allows comparison of current gross margin against last year to assess year-over-year performance at a product level.
+- Offers regional insight to understand localized product trends and potential areas needing pricing, cost, or strategy adjustments.
+
 <img src="" class="center">
-
-
