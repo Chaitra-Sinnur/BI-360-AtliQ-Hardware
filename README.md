@@ -130,3 +130,7 @@ This report provides a general overview of product performance based on gross ma
 - Offers regional insight to understand localized product trends and potential areas needing pricing, cost, or strategy adjustments.
 
 <img src="https://github.com/Chaitra-Sinnur/BI-360-AtliQ-Hardware/blob/main/Products_page-0001.jpg" class="center">
+
+### **Explore the full project in this repository!**  
+
+💡 **Feedback & suggestions are highly appreciated!**  
