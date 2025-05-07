@@ -1,6 +1,10 @@
-# Business Insights 360 - AtliQ Hardware
+# 📊 Business Insights 360 - AtliQ Hardware
 AtliQ Hardware is a consumer goods electronics company having operations in various countries. Their business is growing rapidly and they still rely on excel files for data analytics. Excel files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics the company faced a major loss in Latin America.
-The Business Insights 360 report provides comprehensive insights across key departments such as Finance, Sales, Marketing, Supply Chain, Product Development, and Executive Management at AtliQ Hardware. Below is an overview of the project 
+The Business Insights 360 report provides comprehensive insights across key departments such as Finance, Sales, Marketing, Supply Chain, Product Development, and Executive Management at AtliQ Hardware. 
+
+Check out the interactive dashboard  [BI 360](https://rb.gy/51nju0)
+
+Below is an overview of the project 
 
 ***
 
@@ -12,7 +16,7 @@ The Business Insights 360 report provides comprehensive insights across key depa
   - **DAX Studio**
 
 ***
-## **Laying the Groundwork: Understanding Projects and Business Impact**
+## 🧱 **Laying the Groundwork: Understanding Projects and Business Impact**
 - Before starting any project, it's important to spend time understanding the problem, the final goal, and the overall purpose of the project.
 - Regularly check in with the product owner or key stakeholder to make sure you're clear on the project’s scope, needs, and deadlines.
 - The profit and loss (P&L) statement is one of the most important reports for any business—it helps track how much money the company is making or losing.
@@ -39,7 +43,7 @@ The Business Insights 360 report provides comprehensive insights across key depa
 - Collaboration, workspace, access permissions in PowerBi services etc..
 
 ***
-## Business terminologies
+## 📄 Business terminologies
 - Year to Date , Year to Go, Landing Estimates
 - Fiscal Year
 - Profit and Loss Statement
@@ -125,4 +129,4 @@ This report provides a general overview of product performance based on gross ma
 - Allows comparison of current gross margin against last year to assess year-over-year performance at a product level.
 - Offers regional insight to understand localized product trends and potential areas needing pricing, cost, or strategy adjustments.
 
-<img src="" class="center">
+<img src="https://github.com/Chaitra-Sinnur/BI-360-AtliQ-Hardware/blob/main/Products_page-0001.jpg" class="center">
