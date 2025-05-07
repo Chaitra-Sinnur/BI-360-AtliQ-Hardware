@@ -114,5 +114,8 @@ This report gives a broad overview of how accurately demand was forecasted for d
 
 ***
 ## Executive view
+This report provides a high-level view of overall business performance across regions, customers, and products, with a focus on profitability, efficiency, and market dynamics.
+
+<img src="" class="center">
 
 
